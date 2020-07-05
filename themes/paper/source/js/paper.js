@@ -41,15 +41,15 @@ window.addEventListener('DOMContentLoaded', () => {
       darkmode.turnOnDarkmode()
       checkbox.checked = true
     }
-    checkbox.addEventListener('change', function() {
-      if (this.checked) {
-        darkmode.turnOnDarkmode()
-        localStorage.setItem('isDarkMode', true)
-      } else {
-        darkmode.turnOffDarkmode()
-        localStorage.setItem('isDarkMode', false)
-      }
-    })
+    // checkbox.addEventListener('change', function() {
+    //   if (this.checked) {
+    //     darkmode.turnOnDarkmode()
+    //     localStorage.setItem('isDarkMode', true)
+    //   } else {
+    //     darkmode.turnOffDarkmode()
+    //     localStorage.setItem('isDarkMode', false)
+    //   }
+    // })
   })()
 
   // sidebar

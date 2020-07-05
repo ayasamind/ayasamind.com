@@ -6,6 +6,7 @@ language: ja
 menu:
   Home: /
   About: /about
+  Contact: /contact
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -22,8 +23,10 @@ scripts_defer:
 
 
 social:
+  About Me: /about
   Twitter: https://twitter.com/ayasamind
   Github: https://github.com/ayasamind
+  Contact: /contact
   # and more, you can add other link by the same way
 
 # Uncomment to disable sidebar

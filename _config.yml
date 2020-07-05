@@ -4,8 +4,8 @@
 
 # Site
 title: ayasamind.com
-subtitle: '福岡のFusicという会社でエンジニアしているよしまさのブログです。'
-description: '福岡のFusicという会社でエンジニアしているよしまさのブログです。'
+subtitle: '福岡のWebエンジニア、よしまさのブログです。Fusic.Co.,Ltd所属。'
+description: '福岡のWebエンジニア、よしまさのブログです。Fusic.Co.,Ltd所属。'
 keywords: 'ayasamind, Fusic, Geek Studio'
 author: ayasamind
 language: ja
@@ -15,7 +15,7 @@ timezone: 'Asia/Tokyo'
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://ayasamind.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:

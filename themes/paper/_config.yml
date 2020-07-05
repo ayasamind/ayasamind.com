@@ -23,10 +23,11 @@ scripts_defer:
 
 
 social:
-  About Me: /about
+  自己紹介: /about
   Twitter: https://twitter.com/ayasamind
-  Github: https://github.com/ayasamind
-  Contact: /contact
+  GitHub: https://github.com/ayasamind
+  Qiita: https://qiita.com/ayasamind
+  連絡先: /contact
   # and more, you can add other link by the same way
 
 # Uncomment to disable sidebar

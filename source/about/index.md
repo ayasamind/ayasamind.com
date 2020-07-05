@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: 自己紹介
 date: 2020-07-05 18:32:17
 ---
 ## ayasamindについて
@@ -39,7 +39,7 @@ date: 2020-07-05 18:32:17
 
 - 2019
     - [福岡からブロックチェーンを盛り上げる。コミュニティ運営で気づいたブロックチェーンとの共通点とは？](https://withb.co.jp/contents/7510/)
-    
+
 - [Qiita](https://qiita.com/ayasamind)
 
 

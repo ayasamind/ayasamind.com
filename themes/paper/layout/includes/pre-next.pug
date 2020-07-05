@@ -1,0 +1,10 @@
+.pre-next
+  if(page.prev)
+    a.pre-button(href=url_for(page.prev.path))= page.prev.title
+  else
+    a.pre-button
+
+  if(page.next)
+    a.next-button(href=url_for(page.next.path))= page.next.title
+  else
+    a.next-button

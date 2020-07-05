@@ -4,14 +4,17 @@ date: 2020-07-05 18:32:17
 ---
 ## ayasamindについて
 
+
 #### 経歴
 **ayasamindの生まれてから現在まで**
 
 - 1995 福岡県久留米市生まれ
 - 2017 九州大学文学部卒業
 - 2017 [株式会社Fusic](https://fusic.co.jp)にエンジニアとして入社
-- 2018 福岡にクリエイター向けコワーキングスペースGeek Studioを設立
+- 2018 クリエイター向けコワーキングスペースGeek Studioを設立
 
+<br />
+<br />
 
 #### 登壇・LT
 **勉強会・カンファレンスなどでの登壇・LT**
@@ -33,6 +36,8 @@ date: 2020-07-05 18:32:17
     - [NuxtとLaravelを連携する上でやったこと](https://speakerdeck.com/ayasamind/nuxttolaravelwolian-xi-surushang-deyatutakoto) @[Vue Night in Fukuoka #2](https://v-fukuoka.connpass.com/event/113123/)
     - [プロダクトではなくプロトコルの時代のスタートアップのベストプラクティス](https://myojowaraku.net/2018fw/timetable/9163) @[明星和楽2018SUMMER](https://myojowaraku.net/2018fw)
 
+<br />
+<br />
 
 #### 記事
 **ayasamindに関する記事**
@@ -40,6 +45,8 @@ date: 2020-07-05 18:32:17
 - 2019
     - [福岡からブロックチェーンを盛り上げる。コミュニティ運営で気づいたブロックチェーンとの共通点とは？](https://withb.co.jp/contents/7510/)
 
+<br />
+<br />
 
 #### 勉強会、カンファレンス運営、コミュニティ
 **主催している勉強会、運営に関わっているカンファレンス**
@@ -50,18 +57,23 @@ date: 2020-07-05 18:32:17
 
 - 2018〜
     - [福岡ブロックチェーン勉強会](https://gbec.connpass.com/) 主催
-  
+
+<br />
+<br />
+
 #### 資格
 **ayasamindが保有している資格**
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Alexa Skill Builder - Specialty
 
+<br />
+<br />
+
 #### プロジェクト
 **副業でお手伝いしているプロジェクトなど**
 
 - 2020〜
     - [BENNERS](https://www.benners.co.jp/)
-
 - 2019〜
     - [キャリアアドバイザー.com](https://www.ca-com.life/)
